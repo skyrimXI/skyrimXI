@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/riteshpradhan55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riteshpradhan55" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritesh pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh pradhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-pradhan-926837178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh pradhan" height="30" width="40" /></a>
 <a href="https://instagram.com/ritesh__pradhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh__pradhan_" height="30" width="40" /></a>
 </p>
 
