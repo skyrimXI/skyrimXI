@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Esp Deauther V3](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3) Created by [Spacehuhn](https://github.com/SpacehuhnTech)
 
-- 🤝 I’m looking for help with **Arduino Programming**
+- 🤝 I’m looking for help with **adding Display to Spacehuhn** [DeautherV3](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3)
 
 - 👨‍💻 All of my projects are available at [skyrimXI.github.io](skyrimXI.github.io)
 
