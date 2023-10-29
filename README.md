@@ -20,7 +20,3 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-pradhan-926837178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh pradhan" height="30" width="40" /></a>
 <a href="https://instagram.com/ritesh__pradhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh__pradhan_" height="30" width="40" /></a>
 </p>
-
-#### Contribution Graph 🐍
-![snake gif](https://github.com/skyrimXI/skyrimXI/blob/output/github-contribution-grid-snake.gif)
-
