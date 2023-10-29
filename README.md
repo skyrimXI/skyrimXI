@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm skyrimXI</h1>
 
-<p align="left"> <a href="https://twitter.com/riteshpradhan55" target="blank"><img src="https://img.shields.io/twitter/follow/riteshpradhan55?logo=twitter&style=for-the-badge" alt="riteshpradhan55" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyrimxi&label=Profile%20views&color=0e75b6&style=flat" alt="skyrimxi" /> </p>
 
-- 🔭 I’m currently working on [Esp8266 Deauther](https://github.com/SpacehuhnTech/esp8266_deauther) Created by [Spacehuhn](https://github.com/SpacehuhnTech)
+- 🔭 I’m currently working on my Noob_Projects
 
-- 🌱 I’m currently learning **Python,AutoDesk,KICAD**
-
-- 👯 I’m looking to collaborate on [Esp Deauther V3](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3) Created by [Spacehuhn](https://github.com/SpacehuhnTech)
-
-- 🤝 I’m looking for help with **adding Display to Spacehuhn** [DeautherV3](https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3)
-
-- 👨‍💻 All of my projects are available at [skyrimXI.github.io](skyrimXI.github.io)
+- 🌱 I’m currently learning **Fusion360,KICAD**
 
 
 <h3 align="left">Languages and Tools:</h3>
