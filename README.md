@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyrimxi&label=Profile%20views&color=0e75b6&style=flat" alt="skyrimxi" /> </p>
 
-- 🔭 I’m currently working on my Noob_Projects
+- 🔭 I’m currently working on **Intervalometer** Based On **LRTimelapse Pro Timer** From Scratch
 
-- 🌱 I’m currently learning **Fusion360,KICAD**
+- 🌱 I’m currently learning **Fusion360,KICAD,ArduinoIDE,C++**
 
 
 <h3 align="left">Languages and Tools:</h3>
