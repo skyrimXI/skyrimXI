@@ -12,7 +12,6 @@
 
 
 
-<a href="https://www.buymeacoffee.com/riteshprado" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +19,5 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-pradhan-926837178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh pradhan" height="30" width="40" /></a>
 <a href="https://instagram.com/ritesh__pradhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritesh__pradhan_" height="30" width="40" /></a>
 </p>
+
+<a href="https://www.buymeacoffee.com/riteshprado" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
