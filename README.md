@@ -37,11 +37,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/riteshprado"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="riteshprado" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=skyrimXI&show_icons=true&locale=en&theme=radical" alt="skyrimXI" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=skyrimXI&theme=radical" alt="skyrimXI" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/skyrimXI">
@@ -50,7 +45,18 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skyrimXI&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyrimXI&theme=transparent" height="180em" />
 </div>
+
+<h3 align="left">Stars</h3>
+
+<p>&nbsp;<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=skyrimXI&show_icons=true&locale=en&theme=radical" alt="skyrimXI" /></p>
+<p><img align=left" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=skyrimXI&theme=radical" alt="skyrimXI" /></p>
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=skyrimXI&theme=high-contrast"/>
+
+
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
