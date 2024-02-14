@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-15.gif" width="100%" />
 <h1 align="center">হরে কৃষ্ণ</h1>
 <h3 align="center">Jobless electrical engineer with a passion for microcontrollers and astro-photography, seeking opportunities in rural innovation</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyrimXI&label=Profile%20views&color=0e75b6&style=flat" alt="skyrimXI" /> </p>
