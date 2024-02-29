@@ -4,7 +4,7 @@
 
 <img align="left" alt="GIF-1" width="350px" height="350px" src="https://i0.wp.com/www.latimes.com/projects/la-fi-electricity-solar/static/img/factory_smaller.gif" />
 
-## Just A Useless Fellow, Rather Than Being Useless Am Also Electrical Engineer 
+## Jobless not Useless 
 - 👱🏼 Hello everyone Am Ritesh Pradhan From West Bengal/India 
 - 😄 **Dreams:** Good Enough on Micro-Controller 
 - 🎓 **Learning:** Blender, Ki-CAD,DaVinci Resolve
