@@ -11,8 +11,8 @@
 - 🌱 **Love:** Astro-Photography, Night-Life, Micro-Controller 
 - 🔭 I’m currently working on [ Esp_WIFI](https://github.com/skyrimXI/Esp_WIFI)
 - 👯 I’m looking to collaborate on [Esp_WIFI](https://github.com/skyrimXI/Esp_WIFI)
-- ❤️ Support Me and Follow Me In  Social Media
-- 😉 Check Out My Repositories and Projects. Hope You Find Interesting !!!
+- ❤️ Support Me and Follow Me on  Social Media
+- 😉 Check Out My Repositories and Projects. Hope You Find it Interesting !!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyrimXI&label=Profile%20views&color=0e75b6&style=flat" alt="skyrimXI" /> </p>
 
 
